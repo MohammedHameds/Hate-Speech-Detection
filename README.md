@@ -1,2 +1,6 @@
-# Hate-Speech-Detection
-Hate Speech Detection Model
+# Hate Speech Detection
+The term hate speech is understood as any type of verbal, written or behavioural communication that attacks or uses derogatory or discriminatory language against a person or group based on what they are, in other words, based on their religion, ethnicity, nationality, race, colour, ancestry, sex or another identity factor. In this article, I will take you through a hate speech detection model with Machine Learning and Python.
+
+Hate Speech Detection is generally a task of sentiment classification. So for training, a model that can classify hate speech from a certain piece of text can be achieved by training it on a data that is generally used to classify sentiments. So for the task of hate speech detection model, I will use the Twitter data.
+
+For more details please visit the blog [Hate Speech Detection Model](https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/)
